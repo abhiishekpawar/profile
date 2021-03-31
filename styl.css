@@ -1,0 +1,29 @@
+.one{
+    background-color:transparent;
+    
+    height: 200px;
+}
+
+.two{
+    background-color:transparent;
+    height: 200px;
+}
+.main{
+    padding: 10%;
+}
+
+body{
+    background-color: cadetblue;
+    background-image: url(https://cdn.statically.io/img/codetheweb.blog/assets/img/posts/css-advanced-background-images/cover.jpg?f=webp&w=720);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900;
+    color:white;
+}
+
+.pa{
+    color: whitesmoke;
+}
