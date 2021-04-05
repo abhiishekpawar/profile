@@ -27,3 +27,7 @@ body{
 .pa{
     color: whitesmoke;
 }
+
+html, body{
+    height: 100%;
+}
